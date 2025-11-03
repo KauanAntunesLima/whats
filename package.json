@@ -1,0 +1,24 @@
+{
+  "name": "aula-05---marcel",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000u\u0000l\u0000a\u0000-\u00000\u00005\u0000-\u0000-\u0000-\u0000m\u0000a\u0000r\u0000c\u0000e\u0000l\u0000\r\u0000 \u0000#\u0000 \u0000w\u0000h\u0000a\u0000t\u0000s\u0000\r\u0000 \u0000#\u0000 \u0000w\u0000h\u0000a\u0000t\u0000s\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KauanAntunesLima/whats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KauanAntunesLima/whats/issues"
+  },
+  "homepage": "https://github.com/KauanAntunesLima/whats#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
