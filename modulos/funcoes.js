@@ -129,7 +129,7 @@ dadosWhatts.contatos['whats-users'].forEach(function(item){
         }
     })
 })
-    if(number !== '')
+    if(number1 !== '')
     return message
     else
     return MESSAGE_ERROR
@@ -155,7 +155,7 @@ let message = {status: true, statuscode: 200, development: 'Kauan Antunes Lima',
                 }
             })
         })
-    if(number !== '')
+    if(number1 !== '')
     return message
     else
     return MESSAGE_ERROR
